@@ -1,3 +1,4 @@
+# Send (printing) zkr every 5 sec 
 import requests
 import json
 from time import sleep
